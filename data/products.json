@@ -1,19 +1,8 @@
 {
-  "lastUpdated": "2026-06-04T19:59:29.165Z",
+  "lastUpdated": "2026-06-04T19:59:53.339Z",
   "associateId": "sunilkumar-20",
   "totalProducts": 11,
   "products": [
-    {
-      "asin": "B0CJ5J6C9Q",
-      "title": "Vicks Warm Mist Humidifier",
-      "price": "$34.97",
-      "rating": "4.5",
-      "reviews": "23,456",
-      "category": "Health & Personal Care",
-      "badge": "Best Seller",
-      "image": "https://m.media-amazon.com/images/I/71vFBiaCbNL._AC_SX679_.jpg",
-      "affiliateLink": "https://www.amazon.com/dp/B0CJ5J6C9Q?tag=sunilkumar-20"
-    },
     {
       "asin": "B09B8YWXDF",
       "title": "Echo Dot (5th Gen) Smart Speaker with Alexa",
@@ -37,17 +26,6 @@
       "affiliateLink": "https://www.amazon.com/dp/B00BEYXJF0?tag=sunilkumar-20"
     },
     {
-      "asin": "B07FZ8S74R",
-      "title": "Fitbit Inspire 3 Health & Fitness Tracker",
-      "price": "$79.95",
-      "rating": "4.5",
-      "reviews": "45,234",
-      "category": "Health & Personal Care",
-      "badge": "Trending",
-      "image": "https://m.media-amazon.com/images/I/51I0nNVNL3L._AC_SX679_.jpg",
-      "affiliateLink": "https://www.amazon.com/dp/B07FZ8S74R?tag=sunilkumar-20"
-    },
-    {
       "asin": "B08N5WRWNW",
       "title": "Fire TV Stick 4K Streaming Device",
       "price": "$49.99",
@@ -57,39 +35,6 @@
       "badge": "#1 Best Seller",
       "image": "https://m.media-amazon.com/images/I/51TjJOTfslL._AC_SX679_.jpg",
       "affiliateLink": "https://www.amazon.com/dp/B08N5WRWNW?tag=sunilkumar-20"
-    },
-    {
-      "asin": "B07XTQNKSR",
-      "title": "Ninja AF101 Air Fryer 4 Quart",
-      "price": "$89.99",
-      "rating": "4.7",
-      "reviews": "134,567",
-      "category": "Home & Kitchen",
-      "badge": "Best Seller",
-      "image": "https://m.media-amazon.com/images/I/61VJmCMhvZL._AC_SX679_.jpg",
-      "affiliateLink": "https://www.amazon.com/dp/B07XTQNKSR?tag=sunilkumar-20"
-    },
-    {
-      "asin": "B094DKCZXP",
-      "title": "Instant Pot Duo 7-in-1 Electric Pressure Cooker",
-      "price": "$79.95",
-      "rating": "4.7",
-      "reviews": "289,543",
-      "category": "Home & Kitchen",
-      "badge": "#1 Best Seller",
-      "image": "https://m.media-amazon.com/images/I/71y2tJIVFXL._AC_SX679_.jpg",
-      "affiliateLink": "https://www.amazon.com/dp/B094DKCZXP?tag=sunilkumar-20"
-    },
-    {
-      "asin": "B01NBKTPTS",
-      "title": "Waterpik Aquarius Professional Water Flosser",
-      "price": "$49.99",
-      "rating": "4.7",
-      "reviews": "67,890",
-      "category": "Home & Kitchen",
-      "badge": "Top Rated",
-      "image": "https://m.media-amazon.com/images/I/51GtRpBm2nL._AC_SX679_.jpg",
-      "affiliateLink": "https://www.amazon.com/dp/B01NBKTPTS?tag=sunilkumar-20"
     },
     {
       "asin": "B0BDHX8Z63",
@@ -103,6 +48,61 @@
       "affiliateLink": "https://www.amazon.com/dp/B0BDHX8Z63?tag=sunilkumar-20"
     },
     {
+      "asin": "B07XJ8C8F7",
+      "title": "Kindle Paperwhite (16 GB)",
+      "price": "$139.99",
+      "rating": "4.7",
+      "reviews": "87,654",
+      "category": "Electronics",
+      "badge": "Trending",
+      "image": "https://m.media-amazon.com/images/I/61pFXKiymzL._AC_SX679_.jpg",
+      "affiliateLink": "https://www.amazon.com/dp/B07XJ8C8F7?tag=sunilkumar-20"
+    },
+    {
+      "asin": "B094DKCZXP",
+      "title": "Instant Pot Duo 7-in-1 Electric Pressure Cooker",
+      "price": "$79.95",
+      "rating": "4.7",
+      "reviews": "289,543",
+      "category": "Home & Kitchen",
+      "badge": "#1 Best Seller",
+      "image": "https://m.media-amazon.com/images/I/71y2tJIVFXL._AC_SX679_.jpg",
+      "affiliateLink": "https://www.amazon.com/dp/B094DKCZXP?tag=sunilkumar-20"
+    },
+    {
+      "asin": "B07XTQNKSR",
+      "title": "Ninja AF101 Air Fryer 4 Quart",
+      "price": "$89.99",
+      "rating": "4.7",
+      "reviews": "134,567",
+      "category": "Home & Kitchen",
+      "badge": "Best Seller",
+      "image": "https://m.media-amazon.com/images/I/61VJmCMhvZL._AC_SX679_.jpg",
+      "affiliateLink": "https://www.amazon.com/dp/B07XTQNKSR?tag=sunilkumar-20"
+    },
+    {
+      "asin": "B01NBKTPTS",
+      "title": "Waterpik Aquarius Professional Water Flosser",
+      "price": "$49.99",
+      "rating": "4.7",
+      "reviews": "67,890",
+      "category": "Home & Kitchen",
+      "badge": "Top Rated",
+      "image": "https://m.media-amazon.com/images/I/51GtRpBm2nL._AC_SX679_.jpg",
+      "affiliateLink": "https://www.amazon.com/dp/B01NBKTPTS?tag=sunilkumar-20"
+    },
+    {
+      "asin": "B07FZ8S74R",
+      "title": "Fitbit Inspire 3 Health & Fitness Tracker",
+      "price": "$79.95",
+      "rating": "4.5",
+      "reviews": "45,234",
+      "category": "Health & Personal Care",
+      "badge": "Trending",
+      "image": "https://m.media-amazon.com/images/I/51I0nNVNL3L._AC_SX679_.jpg",
+      "affiliateLink": "https://www.amazon.com/dp/B07FZ8S74R?tag=sunilkumar-20"
+    },
+    {
       "asin": "B09X7CRKRZ",
       "title": "Hydro Flask Wide Mouth Water Bottle 32 oz",
       "price": "$44.95",
@@ -114,15 +114,15 @@
       "affiliateLink": "https://www.amazon.com/dp/B09X7CRKRZ?tag=sunilkumar-20"
     },
     {
-      "asin": "B07XJ8C8F7",
-      "title": "Kindle Paperwhite (16 GB)",
-      "price": "$139.99",
-      "rating": "4.7",
-      "reviews": "87,654",
-      "category": "Electronics",
-      "badge": "Trending",
-      "image": "https://m.media-amazon.com/images/I/61pFXKiymzL._AC_SX679_.jpg",
-      "affiliateLink": "https://www.amazon.com/dp/B07XJ8C8F7?tag=sunilkumar-20"
+      "asin": "B0CJ5J6C9Q",
+      "title": "Vicks Warm Mist Humidifier",
+      "price": "$34.97",
+      "rating": "4.5",
+      "reviews": "23,456",
+      "category": "Health & Personal Care",
+      "badge": "Best Seller",
+      "image": "https://m.media-amazon.com/images/I/71vFBiaCbNL._AC_SX679_.jpg",
+      "affiliateLink": "https://www.amazon.com/dp/B0CJ5J6C9Q?tag=sunilkumar-20"
     }
   ],
   "categories": [
