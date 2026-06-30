@@ -1,18 +1,8 @@
 {
-  "lastUpdated": "2026-06-29T17:13:10.952961Z",
+  "lastUpdated": "2026-06-30T12:32:06.915437Z",
   "associateId": "sunilkumar-20",
   "totalProducts": 9,
   "products": [
-    {
-      "asin": "B094DKCZXP",
-      "title": "Instant Pot Duo 7-in-1 Electric Pressure Cooker",
-      "price": "$79.95",
-      "rating": "4.7",
-      "category": "Home & Kitchen",
-      "badge": "#1 Best Seller",
-      "image": "https://m.media-amazon.com/images/I/71y2tJIVFXL._AC_SX679_.jpg",
-      "affiliateLink": "https://www.amazon.com/dp/B094DKCZXP?tag=sunilkumar-20"
-    },
     {
       "asin": "B01NBKTPTS",
       "title": "Waterpik Aquarius Professional Water Flosser",
@@ -22,6 +12,26 @@
       "badge": "Top Rated",
       "image": "https://m.media-amazon.com/images/I/51GtRpBm2nL._AC_SX679_.jpg",
       "affiliateLink": "https://www.amazon.com/dp/B01NBKTPTS?tag=sunilkumar-20"
+    },
+    {
+      "asin": "B078SWJMV3",
+      "title": "Omron Blood Pressure Monitor",
+      "price": "$54.99",
+      "rating": "4.6",
+      "category": "Health & Personal Care",
+      "badge": "Top Rated",
+      "image": "https://m.media-amazon.com/images/I/51oVpBJcxHL._AC_SX679_.jpg",
+      "affiliateLink": "https://www.amazon.com/dp/B078SWJMV3?tag=sunilkumar-20"
+    },
+    {
+      "asin": "B07XJ8C8F7",
+      "title": "Kindle Paperwhite (16 GB)",
+      "price": "$139.99",
+      "rating": "4.7",
+      "category": "Electronics",
+      "badge": "Trending",
+      "image": "https://m.media-amazon.com/images/I/61pFXKiymzL._AC_SX679_.jpg",
+      "affiliateLink": "https://www.amazon.com/dp/B07XJ8C8F7?tag=sunilkumar-20"
     },
     {
       "asin": "B07G3QNXZQ",
@@ -44,24 +54,14 @@
       "affiliateLink": "https://www.amazon.com/dp/B07VGRJDFY?tag=sunilkumar-20"
     },
     {
-      "asin": "B078SWJMV3",
-      "title": "Omron Blood Pressure Monitor",
-      "price": "$54.99",
-      "rating": "4.6",
-      "category": "Health & Personal Care",
-      "badge": "Top Rated",
-      "image": "https://m.media-amazon.com/images/I/51oVpBJcxHL._AC_SX679_.jpg",
-      "affiliateLink": "https://www.amazon.com/dp/B078SWJMV3?tag=sunilkumar-20"
-    },
-    {
-      "asin": "B08N5WRWNW",
-      "title": "Fire TV Stick 4K Streaming Device",
+      "asin": "B09B8YWXDF",
+      "title": "Echo Dot (5th Gen) Smart Speaker with Alexa",
       "price": "$49.99",
       "rating": "4.7",
       "category": "Electronics",
-      "badge": "#1 Best Seller",
-      "image": "https://m.media-amazon.com/images/I/51TjJOTfslL._AC_SX679_.jpg",
-      "affiliateLink": "https://www.amazon.com/dp/B08N5WRWNW?tag=sunilkumar-20"
+      "badge": "Best Seller",
+      "image": "https://m.media-amazon.com/images/I/51yHDOcvGAL._AC_SX679_.jpg",
+      "affiliateLink": "https://www.amazon.com/dp/B09B8YWXDF?tag=sunilkumar-20"
     },
     {
       "asin": "B08MQZXN1X",
@@ -74,24 +74,24 @@
       "affiliateLink": "https://www.amazon.com/dp/B08MQZXN1X?tag=sunilkumar-20"
     },
     {
-      "asin": "B00BEYXJF0",
-      "title": "TRX All-in-One Suspension Training",
-      "price": "$139.95",
-      "rating": "4.7",
-      "category": "Sports & Outdoors",
-      "badge": "Best Seller",
-      "image": "https://m.media-amazon.com/images/I/81iiCqTjBKL._AC_SX679_.jpg",
-      "affiliateLink": "https://www.amazon.com/dp/B00BEYXJF0?tag=sunilkumar-20"
+      "asin": "B0BDHX8Z63",
+      "title": "Apple AirPods Pro (2nd Generation)",
+      "price": "$189.00",
+      "rating": "4.8",
+      "category": "Electronics",
+      "badge": "Top Rated",
+      "image": "https://m.media-amazon.com/images/I/61f1YfTkTDL._AC_SX679_.jpg",
+      "affiliateLink": "https://www.amazon.com/dp/B0BDHX8Z63?tag=sunilkumar-20"
     },
     {
-      "asin": "B07FZ8S74R",
-      "title": "Fitbit Inspire 3 Health & Fitness Tracker",
-      "price": "$79.95",
-      "rating": "4.5",
-      "category": "Health & Personal Care",
-      "badge": "Trending",
-      "image": "https://m.media-amazon.com/images/I/51I0nNVNL3L._AC_SX679_.jpg",
-      "affiliateLink": "https://www.amazon.com/dp/B07FZ8S74R?tag=sunilkumar-20"
+      "asin": "B07XTQNKSR",
+      "title": "Ninja AF101 Air Fryer 4 Quart",
+      "price": "$89.99",
+      "rating": "4.7",
+      "category": "Home & Kitchen",
+      "badge": "Best Seller",
+      "image": "https://m.media-amazon.com/images/I/61VJmCMhvZL._AC_SX679_.jpg",
+      "affiliateLink": "https://www.amazon.com/dp/B07XTQNKSR?tag=sunilkumar-20"
     }
   ],
   "categories": [
