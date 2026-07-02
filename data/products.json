@@ -1,47 +1,17 @@
 {
-  "lastUpdated": "2026-07-01T13:56:58.897077Z",
+  "lastUpdated": "2026-07-02T12:32:11.554892Z",
   "associateId": "sunilkumar-20",
   "totalProducts": 9,
   "products": [
     {
-      "asin": "B07G3QNXZQ",
-      "title": "Resistance Bands Set for Exercise",
-      "price": "$29.99",
+      "asin": "B07VGRJDFY",
+      "title": "Bose QuietComfort 45 Headphones",
+      "price": "$279.00",
       "rating": "4.6",
-      "category": "Sports & Outdoors",
-      "badge": "Popular",
-      "image": "https://m.media-amazon.com/images/I/71GBqEFIkwL._AC_SX679_.jpg",
-      "affiliateLink": "https://www.amazon.com/dp/B07G3QNXZQ?tag=sunilkumar-20"
-    },
-    {
-      "asin": "B0BDHX8Z63",
-      "title": "Apple AirPods Pro (2nd Generation)",
-      "price": "$189.00",
-      "rating": "4.8",
       "category": "Electronics",
-      "badge": "Top Rated",
-      "image": "https://m.media-amazon.com/images/I/61f1YfTkTDL._AC_SX679_.jpg",
-      "affiliateLink": "https://www.amazon.com/dp/B0BDHX8Z63?tag=sunilkumar-20"
-    },
-    {
-      "asin": "B07FZ8S74R",
-      "title": "Fitbit Inspire 3 Health & Fitness Tracker",
-      "price": "$79.95",
-      "rating": "4.5",
-      "category": "Health & Personal Care",
-      "badge": "Trending",
-      "image": "https://m.media-amazon.com/images/I/51I0nNVNL3L._AC_SX679_.jpg",
-      "affiliateLink": "https://www.amazon.com/dp/B07FZ8S74R?tag=sunilkumar-20"
-    },
-    {
-      "asin": "B094DKCZXP",
-      "title": "Instant Pot Duo 7-in-1 Electric Pressure Cooker",
-      "price": "$79.95",
-      "rating": "4.7",
-      "category": "Home & Kitchen",
-      "badge": "#1 Best Seller",
-      "image": "https://m.media-amazon.com/images/I/71y2tJIVFXL._AC_SX679_.jpg",
-      "affiliateLink": "https://www.amazon.com/dp/B094DKCZXP?tag=sunilkumar-20"
+      "badge": "Premium Pick",
+      "image": "https://m.media-amazon.com/images/I/51JOMFAKs5L._AC_SX679_.jpg",
+      "affiliateLink": "https://www.amazon.com/dp/B07VGRJDFY?tag=sunilkumar-20"
     },
     {
       "asin": "B01NBKTPTS",
@@ -54,14 +24,14 @@
       "affiliateLink": "https://www.amazon.com/dp/B01NBKTPTS?tag=sunilkumar-20"
     },
     {
-      "asin": "B08Y5KQN1H",
-      "title": "iRobot Roomba i3 Robot Vacuum",
-      "price": "$249.99",
-      "rating": "4.5",
-      "category": "Home & Kitchen",
-      "badge": "Trending",
-      "image": "https://m.media-amazon.com/images/I/61WtdGFDl0L._AC_SX679_.jpg",
-      "affiliateLink": "https://www.amazon.com/dp/B08Y5KQN1H?tag=sunilkumar-20"
+      "asin": "B078SWJMV3",
+      "title": "Omron Blood Pressure Monitor",
+      "price": "$54.99",
+      "rating": "4.6",
+      "category": "Health & Personal Care",
+      "badge": "Top Rated",
+      "image": "https://m.media-amazon.com/images/I/51oVpBJcxHL._AC_SX679_.jpg",
+      "affiliateLink": "https://www.amazon.com/dp/B078SWJMV3?tag=sunilkumar-20"
     },
     {
       "asin": "B00BEYXJF0",
@@ -74,14 +44,34 @@
       "affiliateLink": "https://www.amazon.com/dp/B00BEYXJF0?tag=sunilkumar-20"
     },
     {
-      "asin": "B07XTQNKSR",
-      "title": "Ninja AF101 Air Fryer 4 Quart",
-      "price": "$89.99",
+      "asin": "B0BDHX8Z63",
+      "title": "Apple AirPods Pro (2nd Generation)",
+      "price": "$189.00",
+      "rating": "4.8",
+      "category": "Electronics",
+      "badge": "Top Rated",
+      "image": "https://m.media-amazon.com/images/I/61f1YfTkTDL._AC_SX679_.jpg",
+      "affiliateLink": "https://www.amazon.com/dp/B0BDHX8Z63?tag=sunilkumar-20"
+    },
+    {
+      "asin": "B07XJ8C8F7",
+      "title": "Kindle Paperwhite (16 GB)",
+      "price": "$139.99",
       "rating": "4.7",
-      "category": "Home & Kitchen",
-      "badge": "Best Seller",
-      "image": "https://m.media-amazon.com/images/I/61VJmCMhvZL._AC_SX679_.jpg",
-      "affiliateLink": "https://www.amazon.com/dp/B07XTQNKSR?tag=sunilkumar-20"
+      "category": "Electronics",
+      "badge": "Trending",
+      "image": "https://m.media-amazon.com/images/I/61pFXKiymzL._AC_SX679_.jpg",
+      "affiliateLink": "https://www.amazon.com/dp/B07XJ8C8F7?tag=sunilkumar-20"
+    },
+    {
+      "asin": "B08N5WRWNW",
+      "title": "Fire TV Stick 4K Streaming Device",
+      "price": "$49.99",
+      "rating": "4.7",
+      "category": "Electronics",
+      "badge": "#1 Best Seller",
+      "image": "https://m.media-amazon.com/images/I/51TjJOTfslL._AC_SX679_.jpg",
+      "affiliateLink": "https://www.amazon.com/dp/B08N5WRWNW?tag=sunilkumar-20"
     },
     {
       "asin": "B09X7CRKRZ",
@@ -92,6 +82,16 @@
       "badge": "Top Rated",
       "image": "https://m.media-amazon.com/images/I/61qp7hpGiuL._AC_SX679_.jpg",
       "affiliateLink": "https://www.amazon.com/dp/B09X7CRKRZ?tag=sunilkumar-20"
+    },
+    {
+      "asin": "B07FZ8S74R",
+      "title": "Fitbit Inspire 3 Health & Fitness Tracker",
+      "price": "$79.95",
+      "rating": "4.5",
+      "category": "Health & Personal Care",
+      "badge": "Trending",
+      "image": "https://m.media-amazon.com/images/I/51I0nNVNL3L._AC_SX679_.jpg",
+      "affiliateLink": "https://www.amazon.com/dp/B07FZ8S74R?tag=sunilkumar-20"
     }
   ],
   "categories": [
