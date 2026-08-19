@@ -1,37 +1,17 @@
 {
-  "lastUpdated": "2026-08-18T06:30:04.826793Z",
+  "lastUpdated": "2026-08-19T06:30:49.926015Z",
   "associateId": "sunilkumar-20",
   "totalProducts": 9,
   "products": [
     {
-      "asin": "B07XJ8C8F7",
-      "title": "Kindle Paperwhite (16 GB)",
-      "price": "$139.99",
+      "asin": "B08N5WRWNW",
+      "title": "Fire TV Stick 4K Streaming Device",
+      "price": "$49.99",
       "rating": "4.7",
       "category": "Electronics",
-      "badge": "Trending",
-      "image": "https://m.media-amazon.com/images/I/61pFXKiymzL._AC_SX679_.jpg",
-      "affiliateLink": "https://www.amazon.com/dp/B07XJ8C8F7?tag=sunilkumar-20"
-    },
-    {
-      "asin": "B078SWJMV3",
-      "title": "Omron Blood Pressure Monitor",
-      "price": "$54.99",
-      "rating": "4.6",
-      "category": "Health & Personal Care",
-      "badge": "Top Rated",
-      "image": "https://m.media-amazon.com/images/I/51oVpBJcxHL._AC_SX679_.jpg",
-      "affiliateLink": "https://www.amazon.com/dp/B078SWJMV3?tag=sunilkumar-20"
-    },
-    {
-      "asin": "B00BEYXJF0",
-      "title": "TRX All-in-One Suspension Training",
-      "price": "$139.95",
-      "rating": "4.7",
-      "category": "Sports & Outdoors",
-      "badge": "Best Seller",
-      "image": "https://m.media-amazon.com/images/I/81iiCqTjBKL._AC_SX679_.jpg",
-      "affiliateLink": "https://www.amazon.com/dp/B00BEYXJF0?tag=sunilkumar-20"
+      "badge": "#1 Best Seller",
+      "image": "https://m.media-amazon.com/images/I/51TjJOTfslL._AC_SX679_.jpg",
+      "affiliateLink": "https://www.amazon.com/dp/B08N5WRWNW?tag=sunilkumar-20"
     },
     {
       "asin": "B0BDHX8Z63",
@@ -44,14 +24,44 @@
       "affiliateLink": "https://www.amazon.com/dp/B0BDHX8Z63?tag=sunilkumar-20"
     },
     {
-      "asin": "B08N5WRWNW",
-      "title": "Fire TV Stick 4K Streaming Device",
-      "price": "$49.99",
+      "asin": "B07XTQNKSR",
+      "title": "Ninja AF101 Air Fryer 4 Quart",
+      "price": "$89.99",
+      "rating": "4.7",
+      "category": "Home & Kitchen",
+      "badge": "Best Seller",
+      "image": "https://m.media-amazon.com/images/I/61VJmCMhvZL._AC_SX679_.jpg",
+      "affiliateLink": "https://www.amazon.com/dp/B07XTQNKSR?tag=sunilkumar-20"
+    },
+    {
+      "asin": "B078SWJMV3",
+      "title": "Omron Blood Pressure Monitor",
+      "price": "$54.99",
+      "rating": "4.6",
+      "category": "Health & Personal Care",
+      "badge": "Top Rated",
+      "image": "https://m.media-amazon.com/images/I/51oVpBJcxHL._AC_SX679_.jpg",
+      "affiliateLink": "https://www.amazon.com/dp/B078SWJMV3?tag=sunilkumar-20"
+    },
+    {
+      "asin": "B07XJ8C8F7",
+      "title": "Kindle Paperwhite (16 GB)",
+      "price": "$139.99",
       "rating": "4.7",
       "category": "Electronics",
-      "badge": "#1 Best Seller",
-      "image": "https://m.media-amazon.com/images/I/51TjJOTfslL._AC_SX679_.jpg",
-      "affiliateLink": "https://www.amazon.com/dp/B08N5WRWNW?tag=sunilkumar-20"
+      "badge": "Trending",
+      "image": "https://m.media-amazon.com/images/I/61pFXKiymzL._AC_SX679_.jpg",
+      "affiliateLink": "https://www.amazon.com/dp/B07XJ8C8F7?tag=sunilkumar-20"
+    },
+    {
+      "asin": "B09X7CRKRZ",
+      "title": "Hydro Flask Wide Mouth Water Bottle 32 oz",
+      "price": "$44.95",
+      "rating": "4.8",
+      "category": "Sports & Outdoors",
+      "badge": "Top Rated",
+      "image": "https://m.media-amazon.com/images/I/61qp7hpGiuL._AC_SX679_.jpg",
+      "affiliateLink": "https://www.amazon.com/dp/B09X7CRKRZ?tag=sunilkumar-20"
     },
     {
       "asin": "B09B8YWXDF",
@@ -64,6 +74,16 @@
       "affiliateLink": "https://www.amazon.com/dp/B09B8YWXDF?tag=sunilkumar-20"
     },
     {
+      "asin": "B094DKCZXP",
+      "title": "Instant Pot Duo 7-in-1 Electric Pressure Cooker",
+      "price": "$79.95",
+      "rating": "4.7",
+      "category": "Home & Kitchen",
+      "badge": "#1 Best Seller",
+      "image": "https://m.media-amazon.com/images/I/71y2tJIVFXL._AC_SX679_.jpg",
+      "affiliateLink": "https://www.amazon.com/dp/B094DKCZXP?tag=sunilkumar-20"
+    },
+    {
       "asin": "B0CJ5J6C9Q",
       "title": "Vicks Warm Mist Humidifier",
       "price": "$34.97",
@@ -72,26 +92,6 @@
       "badge": "Best Seller",
       "image": "https://m.media-amazon.com/images/I/71vFBiaCbNL._AC_SX679_.jpg",
       "affiliateLink": "https://www.amazon.com/dp/B0CJ5J6C9Q?tag=sunilkumar-20"
-    },
-    {
-      "asin": "B07FZ8S74R",
-      "title": "Fitbit Inspire 3 Health & Fitness Tracker",
-      "price": "$79.95",
-      "rating": "4.5",
-      "category": "Health & Personal Care",
-      "badge": "Trending",
-      "image": "https://m.media-amazon.com/images/I/51I0nNVNL3L._AC_SX679_.jpg",
-      "affiliateLink": "https://www.amazon.com/dp/B07FZ8S74R?tag=sunilkumar-20"
-    },
-    {
-      "asin": "B07G3QNXZQ",
-      "title": "Resistance Bands Set for Exercise",
-      "price": "$29.99",
-      "rating": "4.6",
-      "category": "Sports & Outdoors",
-      "badge": "Popular",
-      "image": "https://m.media-amazon.com/images/I/71GBqEFIkwL._AC_SX679_.jpg",
-      "affiliateLink": "https://www.amazon.com/dp/B07G3QNXZQ?tag=sunilkumar-20"
     }
   ],
   "categories": [
